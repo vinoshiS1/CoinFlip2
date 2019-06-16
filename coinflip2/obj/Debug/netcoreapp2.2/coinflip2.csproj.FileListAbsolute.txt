@@ -1,0 +1,11 @@
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/bin/Debug/netcoreapp2.2/coinflip2.deps.json
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/bin/Debug/netcoreapp2.2/coinflip2.runtimeconfig.json
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/bin/Debug/netcoreapp2.2/coinflip2.runtimeconfig.dev.json
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/bin/Debug/netcoreapp2.2/coinflip2.dll
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/bin/Debug/netcoreapp2.2/coinflip2.pdb
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/obj/Debug/netcoreapp2.2/coinflip2.csprojAssemblyReference.cache
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/obj/Debug/netcoreapp2.2/coinflip2.csproj.CoreCompileInputs.cache
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/obj/Debug/netcoreapp2.2/coinflip2.AssemblyInfoInputs.cache
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/obj/Debug/netcoreapp2.2/coinflip2.AssemblyInfo.cs
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/obj/Debug/netcoreapp2.2/coinflip2.dll
+/Users/vinoshisilva/Desktop/CoinFlip2/coinflip2/obj/Debug/netcoreapp2.2/coinflip2.pdb
